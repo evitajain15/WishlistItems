@@ -1,0 +1,3 @@
+GET http://localhost:5000/api/wishlist/getItems http/1.1
+
+# DELETE http://localhost:5000/api/wishlist/deleteItem/6007bb6903100220909976e5 http/1.1
